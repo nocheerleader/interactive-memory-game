@@ -19,3 +19,6 @@ const bottomLeft = document.querySelector("#bottomleft");
 const bottomRight = document.querySelector("#bottomright");
 const onButton = document.querySelector("#on");
 const startButton = document.querySelector("#start");
+
+//Coded in order of how the game is played 
+
